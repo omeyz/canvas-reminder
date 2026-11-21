@@ -1,0 +1,9 @@
+{
+  "name": "canvas-reminder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "npx wrangler@4 deploy",
+    "tail": "npx wrangler@4 tail"
+  }
+}
